@@ -1,0 +1,46 @@
+h1,h2,.lol{
+				color: black;
+				text-align: center;
+				font: 900;
+}
+.form{
+				display: inline-block;
+				border: 2px solid red;
+				width: 260px;
+				text-align: center;
+				height: 270px;
+				background-color: bisque;
+}
+body{
+				background-image: url("https://catherineasquithgallery.com/uploads/posts/2021-02/1614368109_55-p-besshovnie-foni-svetlie-57.jpg");
+}
+.txt{
+				
+				
+				margin: 10px;
+				height: 25px;
+}
+.button{
+				font-size: 18px;
+				font-style: oblique;
+				font-weight: 900;
+				background-color: blue;
+				color: white;
+}
+.g{
+				color: gray;
+}
+.v{
+				display: inline-block;
+				margin-top: 100px;
+}
+.p2,.col1,.col2,.col4,.col5{
+				display: inline-block;
+				padding-left: 40px;
+				
+				
+}
+p{
+				text-align: center;
+}
+
